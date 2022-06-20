@@ -1,0 +1,11 @@
+#pragma once
+#include <Windows.h>
+#include <iostream>
+#include <vector>
+#include <format>
+#include <filesystem>
+#include <winnt.h>
+#include <winternl.h>
+#include <random>
+#include <exception>
+#include "pe.h"
