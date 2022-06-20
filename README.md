@@ -14,4 +14,5 @@ LTC: LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc
 
 ## Disclaimer
 This protector will not work if the executable uses TLS callbacks but support for them can be added.
+
 Based on: http://www.codereversing.com/blog/archives/95
