@@ -10,7 +10,7 @@ public:
 	DWORD align(DWORD size, DWORD alignment, DWORD addr);
 	PIMAGE_SECTION_HEADER createSection(const char* name, DWORD size, DWORD characteristics) noexcept;
 
-	void* pMapView = nullptr;
+	PVOID pMapView = nullptr;
 	PIMAGE_DOS_HEADER pidh = nullptr;
 	PIMAGE_NT_HEADERS pinh = nullptr;
 private:
