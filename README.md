@@ -1,5 +1,5 @@
 # RadonFuscator
-This is a protector for native binaries.
+Packer for native binaries.
 
 ## How does it work?
 It encrypts all PE sections excluding .rsrc and .reloc of course and then adds a stub to a new section and sets the entrypoint there.
