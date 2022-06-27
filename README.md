@@ -7,6 +7,7 @@ Then on runtime the stub decrypts the sections and jumps to OEP. It also has som
 
 ### Terms
 - [x] You're free to use this code anywhere
+- [x] I'm not responsible for anything you do with this
 
 ### Contributing
 1. Fork it
