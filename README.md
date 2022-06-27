@@ -2,7 +2,7 @@
 Packer for native binaries.
 
 ### Educational purposes only
-This demonstrates how packers work. Packers are used to evade antiviruses and prevent reverse engineering. **Don't use this packer maliciously**. 
+**Only use this on your own machine and do not use it maliciously**. 
 
 ### Terms
 - [x] You're free to use this code anywhere
