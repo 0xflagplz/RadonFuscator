@@ -2,7 +2,7 @@
 Packer for native binaries.
 
 ### Educational purposes only
-**Only use this on your own machine and do not use it maliciously**. 
+Only use this on your own machine and do not use it maliciously. 
 
 ### Terms
 - [x] You're free to use this code anywhere
