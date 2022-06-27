@@ -10,7 +10,7 @@ Then on runtime the stub decrypts the sections and jumps to OEP. It also has som
 2. Create your branch (`git checkout -b my-change`)
 3. Commit your changes (`git commit -am 'changed something'`)
 4. Push to the branch (`git push origin my-change`)
-5. Create new pull request (PR)
+5. Create new pull request
 
 ### Donating
 - BTC: `bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady`
