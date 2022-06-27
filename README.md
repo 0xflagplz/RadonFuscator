@@ -8,6 +8,9 @@ Only use this on your own machine and do not use it maliciously.
 - [x] You're free to use this code anywhere
 - [x] I'm not responsible for anything you do with this
 
+### What is this
+Packer is a tool used for evading antivirus detections and preventing reverse engineering.
+
 ### How does it work?
 It encrypts all PE sections excluding .rsrc and .reloc of course and then adds a stub to a new section and sets the entrypoint there.
 Then on runtime the stub decrypts the sections and jumps to OEP. It also has some simple anti dump and anti debug tricks which could be improved.
