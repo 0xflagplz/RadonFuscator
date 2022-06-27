@@ -12,11 +12,6 @@ Then on runtime the stub decrypts the sections and jumps to OEP. It also has som
 4. Push to the branch (`git push origin my-change`)
 5. Create new pull request
 
-### Donating
-- BTC: `bc1qclp38ttjy3nad0r5ca2skkjtyrma7ssg2ctady`
-- ETH: `0x1DC20DB2985b14cA483071c29dC0eDdCbF100019`
-- LTC: `LTtv4qaKDXUaqFjzzBFDLhYUiMTHQtV1Rc`
-
 ### Disclaimer
 This protector will not work if the executable uses TLS callbacks but support for them can be added.
 
