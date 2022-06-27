@@ -6,7 +6,7 @@ It encrypts all PE sections excluding .rsrc and .reloc of course and then adds a
 Then on runtime the stub decrypts the sections and jumps to OEP. It also has some simple anti dump and anti debug tricks which could be improved.
 
 ### Terms
-- [ ] You're free to use this code anywhere
+- [x] You're free to use this code anywhere
 
 ### Contributing
 1. Fork it
