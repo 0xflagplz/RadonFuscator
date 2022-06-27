@@ -1,6 +1,9 @@
 # RadonFuscator
 Packer for native binaries.
 
+## Educational purposes only
+This demonstrates how packers work. Packers are used to evade antiviruses and prevent reverse engineering. **Don't use this packer maliciously**. 
+
 ### How does it work?
 It encrypts all PE sections excluding .rsrc and .reloc of course and then adds a stub to a new section and sets the entrypoint there.
 Then on runtime the stub decrypts the sections and jumps to OEP. It also has some simple anti dump and anti debug tricks which could be improved.
